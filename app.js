@@ -2,11 +2,11 @@ const BLACKLISTED_KEY_CODES = [38];
 
 const COMMANDS = {
     help: 'Supported commands: <span class="code">about</span>, <span class="code">experience</span>, <span class="code">education</span>, <span class="code"> resume</span>, <span class="code">skills</span>, <span class="code"> contact</span>, <span style="color:green"> start game</span>',
-    about: "Howdy! 🤠<br>I'm currently a Business Analytics Grad student at CU Boulder with a concentration in Network Security. I grew up in Austin, Texas, but now I live in downtown Denver.",
-    skills: '<span class="code">Languages:</span> Python, R, HTML, SQL <br><span class="code">Programs:</span> MySQL/PostgreSQL, RStudio, Wireshark, Tableau, Excel<br><span class="code">Other:</span> Kali Linux, AWS, GCP',
+    about: "Howdy! 🤠<br>I'm currently a Data Scientist at KeyBank, building machine learning tools in the Commercial bank. I grew up in Austin, Texas, but now I live in downtown Salt Lake City.",
+    skills: '<span class="code">Languages:</span> Python, R, HTML, SQL <br><span class="code">Programs:</span> Python, PySpark MySQL/PostgreSQL, RStudio, Tableau, Excel<br><span class="code">Other:</span> Kali Linux, AWS, GCP',
     education: '<a href= https://www.colorado.edu/business/ms-programs/masters-program-business-analytics class="header-name" target="_blank">University of Colorado<br><i>M.S. Business Security Analytics</a></i><br>GPA: 3.9 <br><a href= https://www.trinity.edu/academics/departments/economics/economics-ba class="header-name" target="_blank">Trinity University</strong><br><i>B.A. Economics and Business<br></a></i>GPA: 3.1',
     resume: "<a href='TyTinkerResume.pdf' class='success link' target='_blank'>resume.pdf</a>",
-    experience: '<strong class="header-name">Broadway Bank (May 2019-August 2019)</strong><br><i>Analyst Intern</i><br><strong class="header-name">Trinity University (May 2016 - August 2020)</strong><br><i>Student Body President</i><br><strong class="header-name">Bureau of Economic Geology (May 2017 - August 2017)</strong><br><i>Economics Intern</i>',
+    experience: '<strong class="header-name">KeyBank (August 2021-Present)</strong><br><i>Data Scientist</i><br><strong class="header-name">KeyBank (June 2021-August 2021)</strong><br><i>Business Analyst</i><br><strong class="header-name">Broadway Bank (May 2019-August 2019)</strong><br><i>Credit Analyst</i>',
     contact: '<strong class="header-name">e-mail: ✉️ </strong><a href="mailto: tyraytinker@gmail.com" target="_blank">tyraytinker@gmail.com</a><br><strong class="header-name">cell:📱 </strong><a href="tel:512-656-4119"> 512-656-4119</a>',
     'start game': "Welcome to Ty's puzzles! I hope you enjoy the challenge. <i>Please type <span style='color:green'>tutorial</span> to continue.",
     tutorial: "See if you can solve this riddle:<span class='code'><br><i>dog:<b>god</b><br>bad:<b>?</b></i><br></span>If you know the answer, type it below!",
